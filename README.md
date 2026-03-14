@@ -1,4 +1,4 @@
-# This is a repositorty dedicated to daily HackerRank or LeetCode challanges
+# This is a repositorty dedicated to daily HackerRank or LeetCode challenges
 
 ## Purpose
 I want to build a strong foundation in every programming language I currently use, and this tactic feels like the perfect way 
