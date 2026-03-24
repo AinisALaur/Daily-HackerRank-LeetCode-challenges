@@ -5,6 +5,7 @@ I want to build a strong foundation in every programming language I currently us
 to establish syntax knowledge, deepen critical thinking and problem-solving skills.
 
 ## Solved problems
+### HackerRank easy
 - [Find the Smallest Missing Positive Integer](#challenge-1)
 - [Check for Non-Identical String Rotation](#challenge-2)
 - [Target Index Search](#challenge-3)
